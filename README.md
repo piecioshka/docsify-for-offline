@@ -1,6 +1,6 @@
-# docsify-for-offline
+# docsify-local-cdn
 
-Lokalne mirror'y zasobów (CSS/JS) używanych przez projekty `*-guide`, pozwalające pracować offline.
+Lokalny CDN z zasobami (CSS/JS) używanymi przez projekty `*-guide`, pozwalający pracować offline.
 
 ## Uruchomienie lokalnego serwera
 
